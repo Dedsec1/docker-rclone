@@ -18,4 +18,3 @@ RUN cd rclone-*-linux-amd64 && \
 
 VOLUME /config /data /media
 
-COPY /static /
