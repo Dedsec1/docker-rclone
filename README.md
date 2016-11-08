@@ -1,2 +1,2 @@
-# docker-rclone
-Bytesized Connect image for Resilio
+
+Bytesized Connect image for rclone
